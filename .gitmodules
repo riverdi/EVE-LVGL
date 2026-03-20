@@ -1,3 +1,0 @@
-[submodule "app_layer/lvgl"]
-	path = app_layer/lvgl
-	url = https://github.com/lvgl/lvgl
